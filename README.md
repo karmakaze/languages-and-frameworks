@@ -7,7 +7,7 @@ Notes on Languages and Frameworks I have used
 | ---------- | ---------------- | ----------- | ----------- | ---------- | ----- |
 | C          | static           | manual      | threads     | procs      | macro |
 | C++        | static           | manual/auto | threads     | class      | template |
-| C#         | static           | gc          | threads     | class      |  |
+| C#         | static           | gc          | threads     | class      | reflect |
 | Clojure    | dynamic+hints    | gc          | threads     | functional | macro |
 | Crystal    | static           | gc          | coroutines  | object     |  |
 | Dart       | static+infer     | gc          | threads     | class      |  |
@@ -15,7 +15,7 @@ Notes on Languages and Frameworks I have used
 | Elm        | inference        | gc          | -           | functional |  |
 | F#         | inference        | gc          | threads     | functional |  |
 | Go         | static           | gc          | coroutines  | structural | pre-generate |
-| Java       | static+infer     | gc          | threads     | class      | annotation |
+| Java       | static+infer     | gc          | threads     | class      | relfect+annotation |
 | JavaScript | dynamic          | gc          | async/wait  | prototype+class |
 | Julia      | dynamic+hints    | gc          |
 | Haskell    | inference        | gc          |
