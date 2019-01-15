@@ -3,6 +3,11 @@ Notes on Languages and Frameworks I have used
 
 ## Languages
 
+|= Name =|= Typing =|= Memory =|
+| C | static | manual |
+| C++ | static | manual/auto |
+| C# | static | gc |
+
 ### C
 ### C++
 ### C#
