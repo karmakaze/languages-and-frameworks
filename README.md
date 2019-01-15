@@ -75,31 +75,30 @@ Have only used this on small personal projects. I like the opinionated take on L
 
 ## Frameworks
 
-| Name | Verdict |
-| ---- | ------- |
-| none | 👍small(Go)/iOS(Swift)/Android(Kotlin) |
-| Amber | ⟹ Kemal/Javalin/Phoenix |
-| Compojure | 👍Liberator |
-| Django | ⟹ Phoenix |
-| DropWizard | ⟹ Javalin |
-| Elm | 👍/⟹ Vue/React |
-| Flutter | 👍Android/Android+iOS |
-| Javalin | 👍JDBI (Kotlin) |
-| Ktor | ⟹ Javalin |
-| Kemal | 👍small |
-| Liberator | 👍Korma/Toucan/HoneySQL |
-| Micronaut | ⟹ Spring |
-| Phoenix | 👍 |
-| Rails | ⟹ Phoenix |
-| React | 👍/⟹ Vue |
-| Spark | ⟹ Javalin |
-| Spring | 👍/⟹ Javalin/Phoenix |
-| Sinatra | ⟹ Phoenix |
-| Vaadin | ⟹ Phoenix |
-| Vue | 👍(TypeScript) |
-| Web2py | ⟹ Phoenix |
-| Yii | ⟹ Phoenix |
-| Yii2 | ⟹ Phoenix |
+| Name | Language | Verdict |
+| ---- | -------- | ------- |
+| none | | 👍small(Go)/iOS(Swift)/Android(Kotlin) |
+| Amber | Crystal | ⟹ Kemal/Javalin/Phoenix |
+| Compojure | Clojure | 👍Liberator |
+| Django | Python | ⟹ Phoenix |
+| DropWizard | Java | ⟹ Javalin |
+| Elm | Elm | 👍/⟹ Vue/React |
+| Flutter | Dart | 👍Android/Android+iOS |
+| Javalin | Kotlin/Java | 👍JDBI (Kotlin) |
+| Ktor | Kotlin | ⟹ Javalin |
+| Kemal | Crystal | 👍small |
+| Liberator | Clojure | 👍Korma/Toucan/HoneySQL |
+| Micronaut | Java | ⟹ Spring |
+| Phoenix | Elixir | 👍 |
+| Rails | Ruby | ⟹ Phoenix |
+| React | JS/TS/ReasonML | 👍/⟹ Vue |
+| Spark | Java | ⟹ Javalin |
+| Spring | Java | 👍/⟹ Javalin/Phoenix |
+| Sinatra | Ruby | ⟹ Phoenix |
+| Vaadin | Java | ⟹ Phoenix |
+| Vue | JS/TS | 👍(TypeScript) |
+| Web2py | Python | ⟹ Phoenix |
+| Yii/Yii2 | PHP | ⟹ Phoenix |
 
 ### none (any) ###
 ### Amber (Crystal)
