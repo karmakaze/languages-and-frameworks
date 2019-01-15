@@ -129,14 +129,14 @@ Have only used this on small personal projects. I like the opinionated take on L
 
 | Name | Verdict |
 | ---- | ------- |
-| Cassandra | ⟹ FDB Document |
+| Cassandra | ⟹ CockroachDB/FDB Record(JVM) |
 | Cloudant | |
 | CockroachDB | 👍sharded |
 | Couchbase | |
 | CouchDB | |
 | Elasticsearch | 👍 |
 | FoundationDB Document Layer | 
-| FoundationDB Record Layer | 
+| FoundationDB Record Layer (JVM) |
 | Memcached | 👍 |
 | MongoDB | ⟹ FDB Document |
 | MySQL | 👍multi-master |
