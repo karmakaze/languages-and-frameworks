@@ -10,6 +10,7 @@ Notes on Languages and Frameworks I have used
 | C#         | static           | gc          | threads     | class      |
 | Clojure    | dynamic+hints    | gc          | threads     | functional |
 | Crystal    | static           | gc          | coroutines  | object     |
+| Dart       | static+infer     | gc          | threads     | class      |
 | Elixir     | dynamic          | gc          | actors      | functional |
 | Elm        | inference        | gc          | -           | functional |
 | F#         | inference        | gc          | threads     | functional |
@@ -29,6 +30,7 @@ Notes on Languages and Frameworks I have used
 | R          | dyanic           | gc          |
 | Scala      | static+infer     | gc          |
 | Scheme     | dynamic          | gc          |
+| Swift      | static+infer     | auto        |
 | TypeScript | dynamic+hints    | gc          |
 
 ### C
@@ -36,6 +38,7 @@ Notes on Languages and Frameworks I have used
 ### C#
 ### Clojure
 ### Crystal
+### Dart
 ### Elixir
 ### Elm
 ### F#
@@ -55,6 +58,7 @@ Notes on Languages and Frameworks I have used
 ### R
 ### Scala
 ### Scheme
+### Swift
 ### TypeScript
 
 ## Frameworks
