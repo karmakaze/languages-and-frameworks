@@ -96,6 +96,7 @@ Notes on Languages and Frameworks I have used
   - RocksDB
 ### PostgreSQL
   - proper
+### RabbitMQ
 ### Redis
 
 ## Proprietary Databases/Datastores
@@ -104,3 +105,4 @@ Notes on Languages and Frameworks I have used
 ### AWS Aurora PostgreSQL
 ### AWS DynamoDB
 ### AWS Kinesis
+### AWS SQS
