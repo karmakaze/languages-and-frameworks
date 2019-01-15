@@ -84,9 +84,9 @@ Have only used this on small personal projects. I like the opinionated take on L
 | Django | ⟹ Phoenix |
 | DropWizard | ⟹ Javalin |
 | Elm | 👍/⟹ Phoenix |
-| Javalin | 👍JDBI |
+| Javalin | 👍JDBI (Kotlin) |
 | Ktor | ⟹ Javalin |
-| Liberator | 👍 |
+| Liberator | 👍Korma/Toucan/HoneySQL |
 | Micronaut | ⟹ Spring |
 | Phoenix | 👍 |
 | Rails | ⟹ Phoenix |
