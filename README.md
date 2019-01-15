@@ -16,7 +16,7 @@ Notes on Languages and Frameworks I have used
 | F#         | inference        | gc          | thread      | class/func+dsl |  | wait .Net Core
 | Go         | static           | gc          | coroutine   | structural | annotate+generate | use small/low-level
 | Java       | static+infer     | gc          | thread      | class      | annotate+reflect | -> Kotlin
-| JavaScript | dynamic          | gc          | async/wait  | prototype+class | -> TypeScript
+| JavaScript | dynamic          | gc          | async/wait  | prototype+class | | -> TypeScript
 | Julia      | dynamic+hints    | gc          |
 | Haskell    | inference        | gc          |
 | Kotlin     | static           | gc          | coroutine+thread | class+dsl | annotate+reflect | use Android/Javalin
@@ -28,7 +28,7 @@ Notes on Languages and Frameworks I have used
 | Python     | dynamic          | gc          |
 | Ruby       | dynamic          | gc          | fibre+thread | object | monkeypatch | use Rails
 | R          | dyanic           | gc          |
-| Scala      | static+infer     | gc          | thread+actor | -> Kotlin/Clojure
+| Scala      | static+infer     | gc          | thread+actor | | | -> Kotlin/Clojure
 | Scheme     | dynamic          | gc          | | | | use SICP
 | Swift      | static+infer     | auto        | | | | use iOS
 | TypeScript | dynamic+hints    | gc          | async/wait | | | use
