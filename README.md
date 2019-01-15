@@ -140,7 +140,7 @@ Have only used this on small personal projects. I like the opinionated take on L
 | Memcached | 👍 |
 | MongoDB | ⟹ FDB Document |
 | MySQL | 👍multi-master |
-| PostgreSQL 👍master-replica |
+| PostgreSQL | 👍master-replica |
 | RabbitMQ | 👍 |
 | Redis | 👍 |
 | RethinkDB | |
