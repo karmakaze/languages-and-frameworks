@@ -14,7 +14,7 @@ Notes on Languages and Frameworks I have used
 | Elixir     | dynamic          | gc          | actor       | functional |  | use Phoenix
 | Elm        | inference        | gc          | -           | functional |  | ?
 | F#         | inference        | gc          | thread      | class/func+dsl |  | wait .Net Core
-| Go         | static           | gc          | coroutine   | structural | annotate+generate | wait Go2
+| Go         | static           | gc          | coroutine   | structural | annotate+generate | use small or low-level
 | Java       | static+infer     | gc          | thread      | class      | annotate+reflect | -> Kotlin
 | JavaScript | dynamic          | gc          | async/wait  | prototype+class | -> TypeScript
 | Julia      | dynamic+hints    | gc          |
