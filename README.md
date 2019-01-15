@@ -3,11 +3,33 @@ Notes on Languages and Frameworks I have used
 
 ## Languages
 
-| Name | Typing | Memory |
-| ---- | ------ | ------ |
-| C    | static | manual |
-| C++  | static | manual/auto |
-| C#   | static | gc |
+| Name       | Typing           | Memory      | Concurrency | Flavour    |
+| ---------- | ---------------- | ----------- | ----------- | ---------- |
+| C          | static           | manual      | threads     | procs      |
+| C++        | static           | manual/auto | threads     | class      |
+| C#         | static           | gc          | threads     | class      |
+| Clojure    | dynamic+hints    | gc          | threads     | functional |
+| Crystal    | static           | gc          | coroutines  | object     |
+| Elixir     | dynamic          | gc          | actors      | functional |
+| Elm        | inference        | gc          | -           | functional |
+| F#         | inference        | gc          | threads     | functional |
+| Go         | static           | gc          | coroutines  | structural |
+| Java       | static+infer     | gc          | threads     | class      |
+| JavaScript | dynamic          | gc          | async/wait  | prototype+class |
+| Julia      | dynamic+hints    | gc          |
+| Haskell    | inference        | gc          |
+| Kotlin     | static           | gc          |
+| Lua        | dynamic          | gc          |
+| Nim        | static           | gc          |
+| OCaml      | inference        | gc          |
+| PHP        | dynamic          | gc          |
+| Pony       | inference        | gc          |
+| Python     | dynamic          | gc          |
+| Ruby       | dynamic          | gc          |
+| R          | dyanic           | gc          |
+| Scala      | static+infer     | gc          |
+| Scheme     | dynamic          | gc          |
+| TypeScript | dynamic+hints    | gc          |
 
 ### C
 ### C++
@@ -17,6 +39,7 @@ Notes on Languages and Frameworks I have used
 ### Elixir
 ### Elm
 ### F#
+### Go
 ### Java
 ### JavaScript/ECMAScript
 ### Julia
@@ -30,6 +53,7 @@ Notes on Languages and Frameworks I have used
 ### Python
 ### Ruby
 ### R
+### Scala
 ### Scheme
 ### TypeScript
 
