@@ -83,6 +83,8 @@ Have only used this on small personal projects. I like the opinionated take on L
 | Compjure | 👍Liberator |
 | Django | ⟹ Phoenix |
 | DropWizard | ⟹ Javalin |
+| Elm | 👍/⟹ Phoenix |
+| Javalin | 👍 |
 | Ktor | ⟹ Javalin |
 | Liberator | 👍 |
 | Micronaut | ⟹ Spring |
