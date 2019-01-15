@@ -5,18 +5,18 @@ Notes on Languages and Frameworks I have used
 
 | Name       | Typing           | Memory      | Concurrency | Flavour    | Meta  | Verdict |
 | ---------- | ---------------- | ----------- | ----------- | ---------- | ----- | ------- |
-| C          | static           | manual      | thread      | procs      | macro | ⟹Go
-| C++        | static           | manual/auto | thread      | class      | template | ⟹Kotlin
+| C          | static           | manual      | thread      | procs      | macro | ⟹ Go
+| C++        | static           | manual/auto | thread      | class      | template | ⟹ Kotlin
 | C#         | static           | gc          | thread      | class      | reflect | 🕒 .Net Core
 | Clojure    | dynamic+hints    | gc          | thread      | functional | macro | 👍 Liberator
 | Crystal    | static           | gc          | coroutine   | object     |  | 👍 Kemal+small
 | Dart       | static+infer     | gc          | thread      | class      |  | 👍 Flutter
 | Elixir     | dynamic          | gc          | actor       | functional |  | 👍 Phoenix
-| Elm        | inference        | gc          | -           | functional |  | 👍/⟹TypeScript
+| Elm        | inference        | gc          | -           | functional |  | 👍/⟹ TypeScript
 | F#         | inference        | gc          | thread      | class/func+dsl |  | 🕒 .Net Core
 | Go         | static           | gc          | coroutine   | structural | annotate+generate | 👍 small/low-level
-| Java       | static+infer     | gc          | thread      | class      | annotate+reflect | 👍/⟹Kotlin
-| JavaScript | dynamic          | gc          | async/wait  | prototype+class | | ⟹TypeScript
+| Java       | static+infer     | gc          | thread      | class      | annotate+reflect | 👍/⟹ Kotlin
+| JavaScript | dynamic          | gc          | async/wait  | prototype+class | | ⟹ TypeScript
 | Julia      | dynamic+hints    | gc          |
 | Haskell    | inference        | gc          |
 | Kotlin     | static           | gc          | co+thread | class+dsl | annotate+reflect | 👍 Android/Javalin
@@ -28,7 +28,7 @@ Notes on Languages and Frameworks I have used
 | Python     | dynamic          | gc          |
 | Ruby       | dynamic          | gc          | co+thread | object | monkeypatch | 👍 Rails
 | R          | dyanic           | gc          |
-| Scala      | static+infer     | gc          | thread+actor | | | ⟹Kotlin/Clojure
+| Scala      | static+infer     | gc          | thread+actor | | | ⟹ Kotlin/Clojure
 | Scheme     | dynamic          | gc          | | | | 👍 SICP
 | Swift      | static+infer     | auto        | | | | 👍 iOS
 | TypeScript | dynamic+hints    | gc          | async/wait | | | 👍 Vue/React
