@@ -8,30 +8,30 @@ Notes on Languages and Frameworks I have used
 | C          | static           | manual      | thread      | procs      | macro | ⟹ Go
 | C++        | static           | manual/auto | thread      | class      | template | ⟹ Kotlin
 | C#         | static           | gc          | thread      | class      | reflect | 🕒 .Net Core
-| Clojure    | dynamic+hints    | gc          | thread      | functional | macro | 👍 Liberator
-| Crystal    | static           | gc          | coroutine   | object     |  | 👍 Kemal+small
-| Dart       | static+infer     | gc          | thread      | class      |  | 👍 Flutter
-| Elixir     | dynamic          | gc          | actor       | functional |  | 👍 Phoenix
+| Clojure    | dynamic+hints    | gc          | thread      | functional | macro | 👍Liberator
+| Crystal    | static           | gc          | coroutine   | object     |  | 👍Kemal+small
+| Dart       | static+infer     | gc          | thread      | class      |  | 👍Flutter
+| Elixir     | dynamic          | gc          | actor       | functional |  | 👍Phoenix
 | Elm        | inference        | gc          | -           | functional |  | 👍/⟹ TypeScript
 | F#         | inference        | gc          | thread      | class/func+dsl |  | 🕒 .Net Core
-| Go         | static           | gc          | coroutine   | structural | annotate+generate | 👍 small/low-level
+| Go         | static           | gc          | coroutine   | structural | annotate+generate | 👍small/low-level
 | Java       | static+infer     | gc          | thread      | class      | annotate+reflect | 👍/⟹ Kotlin
 | JavaScript | dynamic          | gc          | async/wait  | prototype+class | | ⟹ TypeScript
 | Julia      | dynamic+hints    | gc          |
 | Haskell    | inference        | gc          |
-| Kotlin     | static           | gc          | co+thread | class+dsl | annotate+reflect | 👍 Android/Javalin
+| Kotlin     | static           | gc          | co+thread | class+dsl | annotate+reflect | 👍Android/Javalin
 | Lua        | dynamic          | gc          |
 | Nim        | static           | gc          |
 | OCaml      | inference        | gc          |             | func/class |
 | PHP        | dynamic          | gc          |
 | Pony       | inference        | gc          | actor       | functional | | 🕒 framework
 | Python     | dynamic          | gc          |
-| Ruby       | dynamic          | gc          | co+thread | object | monkeypatch | 👍 Rails
+| Ruby       | dynamic          | gc          | co+thread | object | monkeypatch | 👍Rails
 | R          | dyanic           | gc          |
 | Scala      | static+infer     | gc          | thread+actor | | | ⟹ Kotlin/Clojure
-| Scheme     | dynamic          | gc          | | | | 👍 SICP
-| Swift      | static+infer     | auto        | | | | 👍 iOS
-| TypeScript | dynamic+hints    | gc          | async/wait | | | 👍 Vue/React
+| Scheme     | dynamic          | gc          | | | | 👍SICP
+| Swift      | static+infer     | auto        | | | | 👍iOS
+| TypeScript | dynamic+hints    | gc          | async/wait | | | 👍Vue/React
 
 ### C
 
@@ -96,7 +96,7 @@ Have only used this on small personal projects. I like the opinionated take on L
 | Spring | 👍/⟹ Javalin/Phoenix |
 | Sinatra | ⟹ Phoenix |
 | Vaadin | ⟹ Phoenix |
-| Vue | 👍 (TypeScript) |
+| Vue | 👍(TypeScript) |
 | Web2py | ⟹ Phoenix |
 | Yii | ⟹ Phoenix |
 | Yii2 | ⟹ Phoenix |
