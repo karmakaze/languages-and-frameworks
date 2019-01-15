@@ -15,7 +15,7 @@ Notes on Languages and Frameworks I have used
 | Elm        | inference        | gc          | -           | functional |  |
 | F#         | inference        | gc          | threads     | functional |  |
 | Go         | static           | gc          | coroutines  | structural | annotate+generate |
-| Java       | static+infer     | gc          | threads     | class      | reflect+annotate |
+| Java       | static+infer     | gc          | threads     | class      | annotate+reflect |
 | JavaScript | dynamic          | gc          | async/wait  | prototype+class |
 | Julia      | dynamic+hints    | gc          |
 | Haskell    | inference        | gc          |
