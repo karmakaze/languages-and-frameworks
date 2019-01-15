@@ -3,19 +3,19 @@ Notes on Languages and Frameworks I have used
 
 ## Languages
 
-| Name       | Typing           | Memory      | Concurrency | Flavour    |
-| ---------- | ---------------- | ----------- | ----------- | ---------- |
-| C          | static           | manual      | threads     | procs      |
-| C++        | static           | manual/auto | threads     | class      |
-| C#         | static           | gc          | threads     | class      |
-| Clojure    | dynamic+hints    | gc          | threads     | functional |
-| Crystal    | static           | gc          | coroutines  | object     |
-| Dart       | static+infer     | gc          | threads     | class      |
-| Elixir     | dynamic          | gc          | actors      | functional |
-| Elm        | inference        | gc          | -           | functional |
-| F#         | inference        | gc          | threads     | functional |
-| Go         | static           | gc          | coroutines  | structural |
-| Java       | static+infer     | gc          | threads     | class      |
+| Name       | Typing           | Memory      | Concurrency | Flavour    | Meta  |
+| ---------- | ---------------- | ----------- | ----------- | ---------- | ----- |
+| C          | static           | manual      | threads     | procs      | macro |
+| C++        | static           | manual/auto | threads     | class      | template |
+| C#         | static           | gc          | threads     | class      |  |
+| Clojure    | dynamic+hints    | gc          | threads     | functional | macro |
+| Crystal    | static           | gc          | coroutines  | object     |  |
+| Dart       | static+infer     | gc          | threads     | class      |  |
+| Elixir     | dynamic          | gc          | actors      | functional |  |
+| Elm        | inference        | gc          | -           | functional |  |
+| F#         | inference        | gc          | threads     | functional |  |
+| Go         | static           | gc          | coroutines  | structural | pre-generate |
+| Java       | static+infer     | gc          | threads     | class      | annotation |
 | JavaScript | dynamic          | gc          | async/wait  | prototype+class |
 | Julia      | dynamic+hints    | gc          |
 | Haskell    | inference        | gc          |
@@ -26,7 +26,7 @@ Notes on Languages and Frameworks I have used
 | PHP        | dynamic          | gc          |
 | Pony       | inference        | gc          | actors      | functional |
 | Python     | dynamic          | gc          |
-| Ruby       | dynamic          | gc          | fibres+threads | object |
+| Ruby       | dynamic          | gc          | fibres+threads | object | monkeypatch |
 | R          | dyanic           | gc          |
 | Scala      | static+infer     | gc          |
 | Scheme     | dynamic          | gc          |
