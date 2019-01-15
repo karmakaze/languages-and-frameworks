@@ -133,7 +133,7 @@ Have only used this on small personal projects. I like the opinionated take on L
 | Cloudant | |
 | CockroachDB | 👍sharded | frequent (eg. N+1) queries |
 | Couchbase | ⟹ Redis |
-| CouchDB | |
+| CouchDB | ⟹ CockroachDB/FDB Document | unless offline sync |
 | Elasticsearch | 👍 | db fulltext good enough |
 | FoundationDB Document Layer | 👍/⟹ CockroachDB/MongoDB |
 | FoundationDB Record Layer | 👍(JVM) |
