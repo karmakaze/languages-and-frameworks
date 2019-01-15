@@ -5,8 +5,8 @@ Notes on Languages and Frameworks I have used
 
 | Name       | Typing           | Memory      | Concurrency | Flavour    | Meta  | Verdict |
 | ---------- | ---------------- | ----------- | ----------- | ---------- | ----- | ------- |
-| C          | static           | manual      | thread      | procs      | macro | ⟹ gc
-| C++        | static           | manual/auto | thread      | class      | template | ⟹ gc
+| C          | static           | manual      | thread      | procs      | macro | ⟹ Go
+| C++        | static           | manual/auto | thread      | class      | template | ⟹ Go
 | C#         | static           | gc          | thread      | class      | reflect | 🕒 .Net Core
 | Clojure    | dynamic+hints    | gc          | thread      | functional | macro | 👍 Liberator
 | Crystal    | static           | gc          | coroutine   | object     |  | 👍 Kemal+small
@@ -26,7 +26,7 @@ Notes on Languages and Frameworks I have used
 | PHP        | dynamic          | gc          |
 | Pony       | inference        | gc          | actor       | functional | | 🕒 framework
 | Python     | dynamic          | gc          |
-| Ruby       | dynamic          | gc          | co(fibre)+thread | object | monkeypatch | 👍 Rails
+| Ruby       | dynamic          | gc          | co+thread | object | monkeypatch | 👍 Rails
 | R          | dyanic           | gc          |
 | Scala      | static+infer     | gc          | thread+actor | | | ⟹ Kotlin/Clojure
 | Scheme     | dynamic          | gc          | | | | 👍 SICP
