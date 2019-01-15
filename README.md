@@ -5,28 +5,28 @@ Notes on Languages and Frameworks I have used
 
 | Name       | Typing           | Memory      | Concurrency | Flavour    | Meta  |
 | ---------- | ---------------- | ----------- | ----------- | ---------- | ----- |
-| C          | static           | manual      | threads     | procs      | macro |
-| C++        | static           | manual/auto | threads     | class      | template |
-| C#         | static           | gc          | threads     | class      | reflect |
-| Clojure    | dynamic+hints    | gc          | threads     | functional | macro |
-| Crystal    | static           | gc          | coroutines  | object     |  |
-| Dart       | static+infer     | gc          | threads     | class      |  |
-| Elixir     | dynamic          | gc          | actors      | functional |  |
+| C          | static           | manual      | thread      | procs      | macro |
+| C++        | static           | manual/auto | thread      | class      | template |
+| C#         | static           | gc          | thread      | class      | reflect |
+| Clojure    | dynamic+hints    | gc          | thread      | functional | macro |
+| Crystal    | static           | gc          | coroutine   | object     |  |
+| Dart       | static+infer     | gc          | thread      | class      |  |
+| Elixir     | dynamic          | gc          | actor       | functional |  |
 | Elm        | inference        | gc          | -           | functional |  |
-| F#         | inference        | gc          | threads     | functional |  |
-| Go         | static           | gc          | coroutines  | structural | annotate+generate |
-| Java       | static+infer     | gc          | threads     | class      | annotate+reflect |
+| F#         | inference        | gc          | thread      | class/func+dsl |  |
+| Go         | static           | gc          | coroutine   | structural | annotate+generate |
+| Java       | static+infer     | gc          | thread      | class      | annotate+reflect |
 | JavaScript | dynamic          | gc          | async/wait  | prototype+class |
 | Julia      | dynamic+hints    | gc          |
 | Haskell    | inference        | gc          |
-| Kotlin     | static           | gc          |
+| Kotlin     | static           | gc          | coroutine+thread | class+dsl | annotate+reflect |
 | Lua        | dynamic          | gc          |
 | Nim        | static           | gc          |
 | OCaml      | inference        | gc          |
 | PHP        | dynamic          | gc          |
-| Pony       | inference        | gc          | actors      | functional |
+| Pony       | inference        | gc          | actor       | functional |
 | Python     | dynamic          | gc          |
-| Ruby       | dynamic          | gc          | fibres+threads | object | monkeypatch |
+| Ruby       | dynamic          | gc          | fibre+thread | object | monkeypatch |
 | R          | dyanic           | gc          |
 | Scala      | static+infer     | gc          |
 | Scheme     | dynamic          | gc          |
