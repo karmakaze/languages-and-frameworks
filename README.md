@@ -130,7 +130,7 @@ Have only used this on small personal projects. I like the opinionated take on L
 | Name | Verdict | ⟹Because / 👍Except |
 | ---- | ------- | --------------------- |
 | Cassandra | ⟹ CockroachDB/FDB Record(JVM) | complex performance tuning |
-| Cloudant | |
+| Cloudant | ⟹ CockroachDB/FDB Document | unless search |
 | CockroachDB | 👍sharded | frequent (eg. N+1) queries |
 | Couchbase | ⟹ Redis |
 | CouchDB | ⟹ CockroachDB/FDB Document | unless offline sync |
