@@ -127,7 +127,7 @@ Have only used this on small personal projects. I like the opinionated take on L
 
 ## Databases/Datastores
 
-| Name | Verdict | Because/Except |
+| Name | Verdict | ⟹Because/👍Except |
 | ---- | ------- | -------------- |
 | Cassandra | ⟹ CockroachDB/FDB Record(JVM) | complex performance tuning |
 | Cloudant | |
