@@ -24,9 +24,9 @@ Notes on Languages and Frameworks I have used
 | Nim        | static           | gc          |
 | OCaml      | inference        | gc          |
 | PHP        | dynamic          | gc          |
-| Pony       | inference        | gc          |
+| Pony       | inference        | gc          | actors      | functional |
 | Python     | dynamic          | gc          |
-| Ruby       | dynamic          | gc          |
+| Ruby       | dynamic          | gc          | fibres+threads | object |
 | R          | dyanic           | gc          |
 | Scala      | static+infer     | gc          |
 | Scheme     | dynamic          | gc          |
