@@ -50,9 +50,6 @@ Really only used C# in the context of Unity 3D. Very natural coming from Java. M
 Have only used this on small personal projects. I like the opinionated take on Lisp as well as being part of the JVM ecosystem. Don't understand what lispers have against running on a popular VM. Will continue to use with either Liberator or Composure frameworks.
 
 ### Crystal
-
-
-
 ### Dart
 ### Elixir
 ### Elm
@@ -80,12 +77,16 @@ Have only used this on small personal projects. I like the opinionated take on L
 
 | Name | Verdict |
 | ---- | ------- |
-| Compjure | 👍Liberator |
+| none | 👍small(Go)/iOS(Swift)/Android(Kotlin) |
+| Amber | ⟹ Kemal/Javalin/Phoenix |
+| Compojure | 👍Liberator |
 | Django | ⟹ Phoenix |
 | DropWizard | ⟹ Javalin |
-| Elm | 👍/⟹ Phoenix |
+| Elm | 👍/⟹ Vue/React |
+| Flutter | 👍Android/Android+iOS |
 | Javalin | 👍JDBI (Kotlin) |
 | Ktor | ⟹ Javalin |
+| Kemal | 👍small |
 | Liberator | 👍Korma/Toucan/HoneySQL |
 | Micronaut | ⟹ Spring |
 | Phoenix | 👍 |
@@ -100,12 +101,16 @@ Have only used this on small personal projects. I like the opinionated take on L
 | Yii | ⟹ Phoenix |
 | Yii2 | ⟹ Phoenix |
 
+### none (any) ###
+### Amber (Crystal)
 ### Compojure (Clojure)
 ### Django (Python)
 ### DropWizard (Java)
 ### Elm (Elm)
+### Flutter (Dart)
 ### Javalin (Java/Kotlin)
 ### Ktor (Kotlin)
+### Kemal (Crystal)
 ### Liberator (Clojure)
 ### Micronaut (Java)
 ### Phoenix (Elixir)
