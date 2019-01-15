@@ -14,8 +14,8 @@ Notes on Languages and Frameworks I have used
 | Elixir     | dynamic          | gc          | actors      | functional |  |
 | Elm        | inference        | gc          | -           | functional |  |
 | F#         | inference        | gc          | threads     | functional |  |
-| Go         | static           | gc          | coroutines  | structural | pre-generate |
-| Java       | static+infer     | gc          | threads     | class      | reflect+annotation |
+| Go         | static           | gc          | coroutines  | structural | annotate-generate |
+| Java       | static+infer     | gc          | threads     | class      | reflect+annotate |
 | JavaScript | dynamic          | gc          | async/wait  | prototype+class |
 | Julia      | dynamic+hints    | gc          |
 | Haskell    | inference        | gc          |
