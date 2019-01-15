@@ -136,7 +136,7 @@ Have only used this on small personal projects. I like the opinionated take on L
 | CouchDB | |
 | Elasticsearch | 👍 |
 | FoundationDB Document Layer | 👍 |
-| FoundationDB Record Layer (JVM) | 👍 |
+| FoundationDB Record Layer | 👍(JVM) |
 | Memcached | 👍 |
 | MongoDB | ⟹ FDB Document |
 | MySQL | 👍multi-master |
