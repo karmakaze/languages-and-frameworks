@@ -132,15 +132,15 @@ Have only used this on small personal projects. I like the opinionated take on L
 | Cassandra | ⟹ CockroachDB/FDB Record(JVM) |
 | Cloudant | |
 | CockroachDB | 👍sharded |
-| Couchbase | ⟹ Redis/Memcached |
+| Couchbase | ⟹ Redis |
 | CouchDB | |
 | Elasticsearch | 👍 |
-| FoundationDB Document Layer | 👍 |
+| FoundationDB Document Layer | 👍/⟹ CockroachDB/MongoDB |
 | FoundationDB Record Layer | 👍(JVM) |
-| Memcached | 👍 |
-| MongoDB | ⟹ FDB Document |
+| Memcached | ⟹ Redis |
+| MongoDB | 👍/⟹ CockroachDB/FDB Document |
 | MySQL | 👍multi-master |
-| PostgreSQL | 👍master-replica |
+| PostgreSQL | 👍master/replica |
 | RabbitMQ | 👍 |
 | Redis | 👍 |
 | RethinkDB | |
