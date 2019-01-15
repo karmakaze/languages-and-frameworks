@@ -127,11 +127,37 @@ Have only used this on small personal projects. I like the opinionated take on L
 
 ## Databases/Datastores
 
+| Name | Verdict |
+| ---- | ------- |
+| Cassandra | ⟹ FDB Document |
+| Cloudant | |
+| CockroachDB | 👍sharded |
+| Couchbase | |
+| CouchDB | |
+| Elasticsearch | 👍 |
+| FoundationDB Document Layer | 
+| FoundationDB Record Layer | 
+| Memcached | 👍 |
+| MongoDB | ⟹ FDB Document |
+| MySQL | 👍multi-master |
+| PostgreSQL 👍master-replica |
+| RabbitMQ | 👍 |
+| Redis | 👍 |
+| RethinkDB | |
+| Riak KV | |
+| Riak TS | |
+| Solr | |
+| TiDB | |
+| TiKV | |
+
+
 ### Cassandra
 ### CockroachDB
 ### Couchbase
 ### CouchDB
 ### Elasticsearch
+### FoundationDB Document Layer
+### FoundationDB Record Layer
 ### Memcached
 ### MongoDB
 ### MySQL
