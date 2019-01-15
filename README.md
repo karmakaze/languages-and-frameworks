@@ -127,14 +127,14 @@ Have only used this on small personal projects. I like the opinionated take on L
 
 ## Databases/Datastores
 
-| Name | Verdict |
-| ---- | ------- |
-| Cassandra | ⟹ CockroachDB/FDB Record(JVM) |
+| Name | Verdict | Because/Except |
+| ---- | ------- | -------------- |
+| Cassandra | ⟹ CockroachDB/FDB Record(JVM) | complex performance tuning |
 | Cloudant | |
-| CockroachDB | 👍sharded |
+| CockroachDB | 👍sharded | frequent (eg. N+1) queries |
 | Couchbase | ⟹ Redis |
 | CouchDB | |
-| Elasticsearch | 👍 |
+| Elasticsearch | 👍 | db fulltext good enough |
 | FoundationDB Document Layer | 👍/⟹ CockroachDB/MongoDB |
 | FoundationDB Record Layer | 👍(JVM) |
 | Memcached | ⟹ Redis |
