@@ -22,16 +22,16 @@ Notes on Languages and Frameworks I have used
 | Kotlin     | static           | gc          | coroutine+thread | class+dsl | annotate+reflect |
 | Lua        | dynamic          | gc          |
 | Nim        | static           | gc          |
-| OCaml      | inference        | gc          |
+| OCaml      | inference        | gc          |             | func/class |
 | PHP        | dynamic          | gc          |
 | Pony       | inference        | gc          | actor       | functional |
 | Python     | dynamic          | gc          |
 | Ruby       | dynamic          | gc          | fibre+thread | object | monkeypatch |
 | R          | dyanic           | gc          |
-| Scala      | static+infer     | gc          |
+| Scala      | static+infer     | gc          | thread+actor |
 | Scheme     | dynamic          | gc          |
 | Swift      | static+infer     | auto        |
-| TypeScript | dynamic+hints    | gc          |
+| TypeScript | dynamic+hints    | gc          | async/wait  |
 
 ### C
 ### C++
