@@ -95,7 +95,7 @@ Have only used this on small personal projects. I like the opinionated take on L
 | Spring | 👍/⟹ Javalin/Phoenix |
 | Sinatra | ⟹ Phoenix |
 | Vaadin | ⟹ Phoenix |
-| Vue | 👍 |
+| Vue | 👍 (TypeScript) |
 | Web2py | ⟹ Phoenix |
 | Yii | ⟹ Phoenix |
 | Yii2 | ⟹ Phoenix |
