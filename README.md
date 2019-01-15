@@ -78,7 +78,27 @@ Have only used this on small personal projects. I like the opinionated take on L
 
 ## Frameworks
 
-### Composure (Clojure)
+| Name | Verdict |
+| ---- | ------- |
+| Compjure | 👍Liberator |
+| Django | ⟹ Phoenix |
+| DropWizard | ⟹ Javalin |
+| Ktor | ⟹ Javalin |
+| Liberator | 👍 |
+| Micronaut | ⟹ Spring |
+| Phoenix | 👍 |
+| Rails | ⟹ Phoenix |
+| React | 👍/⟹ Vue |
+| Spark | ⟹ Javalin |
+| Spring | 👍/⟹ Javalin/Phoenix |
+| Sinatra | ⟹ Phoenix |
+| Vaadin | ⟹ Phoenix |
+| Vue | 👍 |
+| Web2py | ⟹ Phoenix |
+| Yii | ⟹ Phoenix |
+| Yii2 | ⟹ Phoenix |
+
+### Compojure (Clojure)
 ### Django (Python)
 ### DropWizard (Java)
 ### Elm (Elm)
