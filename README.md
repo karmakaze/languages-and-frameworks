@@ -24,7 +24,7 @@ Notes on Languages and Frameworks I have used
 | Nim        | static           | gc          |
 | OCaml      | inference        | gc          |             | func/class |
 | PHP        | dynamic          | gc          |
-| Pony       | inference        | gc          | actor       | functional | wait
+| Pony       | inference        | gc          | actor       | functional | | wait framework
 | Python     | dynamic          | gc          |
 | Ruby       | dynamic          | gc          | fibre+thread | object | monkeypatch | use Rails
 | R          | dyanic           | gc          |
