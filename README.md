@@ -84,7 +84,7 @@ Have only used this on small personal projects. I like the opinionated take on L
 | Django | ⟹ Phoenix |
 | DropWizard | ⟹ Javalin |
 | Elm | 👍/⟹ Phoenix |
-| Javalin | 👍 |
+| Javalin | 👍JDBI |
 | Ktor | ⟹ Javalin |
 | Liberator | 👍 |
 | Micronaut | ⟹ Spring |
@@ -122,9 +122,11 @@ Have only used this on small personal projects. I like the opinionated take on L
 
 ## Databases/Datastores
 
+### Cassandra
 ### CockroachDB
 ### Couchbase
 ### CouchDB
+### Elasticsearch
 ### Memcached
 ### MongoDB
 ### MySQL
@@ -135,11 +137,20 @@ Have only used this on small personal projects. I like the opinionated take on L
   - proper
 ### RabbitMQ
 ### Redis
+### RethinkDB
+### Riak KV
+### Riak TS
+### Solr
+### TiDB
 
 ## Proprietary Databases/Datastores
 
-### AWS Aurora MySQL
-### AWS Aurora PostgreSQL
-### AWS DynamoDB
-### AWS Kinesis
-### AWS SQS
+### Amazon Aurora MySQL
+### Amazon Aurora PostgreSQL
+### Amazon DynamoDB
+### Amazon Kinesis
+### Amazon SQS
+### Azure Cosmos DB
+### Datomic
+### Google Cloud Spanner
+### IBM Cloudant (CouchDB)
