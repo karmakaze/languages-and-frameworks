@@ -16,22 +16,22 @@ Notes on Languages and Frameworks I have used
 | F#         | inference        | gc          | thread      | class/func+dsl |  | 🕒 .Net Core
 | Go         | static           | gc          | coroutine   | structural | annotate+generate | 👍small/low-level
 | Java       | static+infer     | gc          | thread      | class      | annotate+reflect | 👍/⟹ Kotlin
-| JavaScript | dynamic          | gc          | async/wait  | prototype+class | | ⟹ TypeScript
+| JavaScript | dynamic          | gc          | async/await | prototype+class | | ⟹ TypeScript
 | Julia      | dynamic+hints    | gc          |
 | Haskell    | inference        | gc          |
-| Kotlin     | static           | gc          | co+thread | class+dsl | annotate+reflect | 👍Android/Javalin
+| Kotlin     | static           | gc          | co+thread   | class+dsl  | annotate+reflect | 👍Android/Javalin
 | Lua        | dynamic          | gc          |
 | Nim        | static           | gc          |
 | OCaml      | inference        | gc          |             | func/class |
 | PHP        | dynamic          | gc          |
 | Pony       | inference        | gc          | actor       | functional | | 🕒 framework
 | Python     | dynamic          | gc          |
-| Ruby       | dynamic          | gc          | co+thread | object | monkeypatch | 👍Rails
+| Ruby       | dynamic          | gc          | co+thread   | object     | monkeypatch | 👍Rails
 | R          | dyanic           | gc          |
-| Scala      | static+infer     | gc          | thread+actor | | | ⟹ Kotlin/Clojure
+| Scala      | static+infer     | gc          | thread+actor |           | | ⟹ Kotlin/Clojure
 | Scheme     | dynamic          | gc          | | | | 👍SICP
 | Swift      | static+infer     | auto        | | | | 👍iOS
-| TypeScript | dynamic+hints    | gc          | async/wait | | | 👍Vue/React
+| TypeScript | dynamic+hints    | gc          | async/await |             | | 👍Vue/React
 
 ### C
 
